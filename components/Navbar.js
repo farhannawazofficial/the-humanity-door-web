@@ -24,19 +24,19 @@ const Navbar = () => {
                             </Link>
                         </div>
                         <div className="hidden md:ml-16 my-[18px] md:flex md:space-x-8">
-                            <Link href="/about" className="text-gray-800 hover:text-green-600">
+                            <Link href="/about" className="text-gray-800 hover:text-green-900">
                                 About
                             </Link>
-                            <Link href="/services" className="text-gray-800 hover:text-green-600">
+                            <Link href="/services" className="text-gray-800 hover:text-green-900">
                                 Services
                             </Link>
-                            <Link href="/media" className="text-gray-800 hover:text-green-600">
+                            <Link href="/media" className="text-gray-800 hover:text-green-900">
                                 Media
                             </Link>
-                            <Link href="/contact" className="text-gray-800 hover:text-green-600">
+                            <Link href="/contact" className="text-gray-800 hover:text-green-900">
                                 Contact Us
                             </Link>
-                            <Link href="/bank-details" className="text-gray-800 hover:text-green-600">
+                            <Link href="/bank-details" className="text-gray-800 hover:text-green-900">
                                 Bank Details
                             </Link>
                         </div>
@@ -97,19 +97,19 @@ const Navbar = () => {
 
             <div className={`${isOpen ? 'block' : 'hidden'} md:hidden`}>
                 <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
-                    <Link href="/about" className="block text-gray-800 hover:text-green-600">
+                    <Link href="/about" className="block text-gray-800 hover:text-green-900">
                         About
                     </Link>
-                    <Link href="/services" className="block text-gray-800 hover:text-green-600">
+                    <Link href="/services" className="block text-gray-800 hover:text-green-900">
                         Services
                     </Link>
-                    <Link href="/media" className="block text-gray-800 hover:text-green-600">
+                    <Link href="/media" className="block text-gray-800 hover:text-green-900">
                         Media
                     </Link>
-                    <Link href="/contact" className="block text-gray-800 hover:text-green-600">
+                    <Link href="/contact" className="block text-gray-800 hover:text-green-900">
                         Contact Us
                     </Link>
-                    <Link href="/bank-details" className="block text-gray-800 hover:text-green-600 my-[18px]">
+                    <Link href="/bank-details" className="block text-gray-800 hover:text-green-900">
                         Bank Details
                     </Link>
                     <button className="block w-full text-left bg-blue-500 text-white px-3 py-2 rounded-md text-sm font-medium hover:bg-blue-600">
