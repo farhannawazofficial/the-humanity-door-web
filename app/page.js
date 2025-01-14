@@ -1,9 +1,13 @@
-import Navbar from "./components/Navbar"
+// pages/index.js
+import Navbar from '../components/Navbar';
 
 export default function Home() {
   return (
-    <>
-    <Navbar/>
-    </>
+    <div>
+      <Navbar />
+      <main>
+        {/* Your page content */}
+      </main>
+    </div>
   );
 }
