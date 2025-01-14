@@ -17,7 +17,7 @@ const Navbar = () => {
                             <Link href="/" className="text-xl font-bold text-gray-800">
                                 <Image
                                     src={Logo}
-                                    width={290}
+                                    width={280}
                                     
                                     alt="Picture of the author"
                                 />
