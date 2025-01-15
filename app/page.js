@@ -1,15 +1,13 @@
-// pages/index.js
 import Navbar from '../components/Navbar';
 import MainSection from '../components/MainSection';
+import ZakatSection from '../components/ZakatSeaction'; // Updated name
 
 export default function Home() {
   return (
     <div>
       <Navbar />
       <MainSection />
-      <main>
-        {/* Your page content */}
-      </main>
+      <ZakatSection /> 
     </div>
   );
 }

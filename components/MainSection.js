@@ -30,7 +30,7 @@ export default function MainSection() {
           />
           </p>
           <p className="mt-4 text-gray-700 leading-relaxed">
-            Saylani Welfare is on the ground and already working with local communities to assess how best to support underprivileged families in more than 63 areas of day-to-day lives.
+          The Humanity Door Foundation is on the ground and already working with local communities to assess how best to support underprivileged families in more than 63 areas of day-to-day lives.
           </p>
           <div className="mt-8">
             <a
