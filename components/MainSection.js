@@ -1,54 +1,3 @@
-// // components/MainSection.js
-// "use client";
-// import Typical from 'react-typical';
-// import Image from 'next/image';
-// import Main from '../public/images/main.png'
-
-
-// const MainSection = () => {
-//   return (
-//     <section className="bg-gray-100 py-20">
-//       <div className="max-w-4xl mx-auto px-4 text-center">
-//         <h1 className="text-4xl font-bold text-gray-800 mb-4">
-//           Welcome to the Saylani Welfare Non-Governmental Organization in Pakistan
-//         </h1>
-//         <p className="text-xl text-gray-600 mb-8">
-//           The largest NGO offering free assistance
-//           <Typical
-//             steps={[
-//               'Monthly Family Support',
-//               3000,
-//               'Clean Water',
-//               3000,
-//               'Green Plants',
-//               3000,
-//             ]}
-//             loop={Infinity}
-//             wrapper="p"
-//             className="text-lg text-gray-700"
-//           />
-//         </p>
-//         <p className="text-xl text-gray-600 mb-8">
-//           Saylani Welfare is on the ground and already working with local communities to assess how best to support underprivileged families in more than 63 areas of day to day lives
-//         </p>
-
-//         <div className="w-full md:w-1/2 flex justify-center">
-//           <Image
-//             src={Main} // Path to your image
-//             alt="Logo"
-//             width={300} // Adjust the width as needed
-//             height={300} // Adjust the height as needed
-//             priority // Optional: Preload the image for better performance
-//           />
-//         </div>
-//       </div>
-//     </section>
-//   );
-// };
-
-// export default MainSection;
-
-
 
 "use client";
 import Typical from 'react-typical';
@@ -62,8 +11,8 @@ export default function MainSection() {
       <div className="max-w-screen-xl mx-auto px-6 lg:flex lg:items-center lg:space-x-16">
         {/* Left Side: Text */}
         <div className="lg:w-1/2">
-          <h1 className="text-4xl lg:text-5xl font-bold leading-snug text-gray-800">
-            Welcome to the <span className="text-green-600">Saylani</span> Welfare Non-Governmental Organization in Pakistan
+          <h1 className="text-4xl lg:text-4xl font-bold leading-snug text-gray-800">
+            Welcome to the <span className="text-green-600">Humanity Door Foundation</span> Non-Governmental Organization in Pakistan
           </h1>
           <p className="mt-6 text-xl font-medium text-gray-600">
             The largest NGO offering free services <Typical
@@ -77,7 +26,7 @@ export default function MainSection() {
             ]}
             loop={Infinity}
             wrapper="p"
-            className="text-lg text-gray-700"
+            className="text-lg text-green-600"
           />
           </p>
           <p className="mt-4 text-gray-700 leading-relaxed">
