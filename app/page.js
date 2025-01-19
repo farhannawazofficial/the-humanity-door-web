@@ -5,6 +5,7 @@ import ProductSection from '../components/ProductSection';
 import OtherProjects from '../components/OtherProjects';
 import DonationSection from '../components/DonationSection';
 import TestimonialSection from '../components/TestimonialSection';
+import Footer from '../components/Footer';
 
 
 export default function Home() {
@@ -17,6 +18,7 @@ export default function Home() {
       <OtherProjects />
       <DonationSection />
       <TestimonialSection />
+      <Footer />
     </div>
   );
 }

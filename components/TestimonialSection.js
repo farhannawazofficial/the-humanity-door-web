@@ -10,35 +10,35 @@ export default function TestimonialSection() {
       name: "Arshad Wali Muhammad",
       title: "Group Director, Gerry's Group",
       review:
-        "Saylani Welfare Trust is a name that needs no introduction today. The journey this team embarked upon was made possible owing to their zeal, enthusiasm & commitment to the society and by the grace of Allah (SWT). It has become a name that we need and not just the one we want. I wish Saylani’s team all the success and blessings they deserve for the future.",
+        "The Humanity Door Foundation is a name that needs no introduction today. The journey this team embarked upon was made possible owing to their zeal, enthusiasm & commitment to the society and by the grace of Allah (SWT). It has become a name that we need and not just the one we want. I wish Saylani’s team all the success and blessings they deserve for the future.",
       image: "/path-to-image1.jpg",
     },
     {
       name: "Ahmed Khan",
       title: "CEO, ABC Tech",
       review:
-        "Saylani Welfare Trust has set the benchmark for welfare work in Pakistan. Their efforts are unmatched, and their dedication to uplifting the underprivileged is truly inspiring.",
+        "The Humanity Door Foundation has set the benchmark for welfare work in Pakistan. Their efforts are unmatched, and their dedication to uplifting the underprivileged is truly inspiring.",
       image: "/path-to-image2.jpg",
     },
     {
       name: "Maria Zahra",
       title: "Social Activist",
       review:
-        "I’ve seen the impact of Saylani’s work first-hand. Their projects are life-changing for the people they serve. May Allah bless them abundantly.",
+        "I’ve seen the impact of The Humanity Door Foundation work first-hand. Their projects are life-changing for the people they serve. May Allah bless them abundantly.",
       image: "/path-to-image3.jpg",
     },
     {
       name: "Usman Iqbal",
       title: "Philanthropist",
       review:
-        "Saylani is doing incredible work for humanity. Their consistent efforts in providing food, education, and healthcare are a testament to their commitment.",
+        "The Humanity Door Foundation is doing incredible work for humanity. Their consistent efforts in providing food, education, and healthcare are a testament to their commitment.",
       image: "/path-to-image4.jpg",
     },
     {
       name: "Fatima Noor",
       title: "Entrepreneur",
       review:
-        "Saylani’s dedication to their cause is commendable. They are truly making a difference in society, and I wholeheartedly support their mission.",
+        "The Humanity Door Foundation dedication to their cause is commendable. They are truly making a difference in society, and I wholeheartedly support their mission.",
       image: "/path-to-image5.jpg",
     },
   ];
