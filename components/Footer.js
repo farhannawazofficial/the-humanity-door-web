@@ -106,12 +106,11 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <ul className="space-y-2">
-              <li>A-25, Bahadurabad Chowrangi Karachi, Pakistan</li>
+              <li>Sarhad Road Karachi, Pakistan</li>
               <li>
-                UAN: 111-729-528 (+0092-213)4130786-90
+                UAN: 111-729-528
               </li>
-              <li>Cell: 92-311-1728528</li>
-              <li>USA: +1 (716) 941 7792</li>
+              <li>Cell: 92-313 2210592</li>
               <li>UK: +44 (15) 970 6256</li>
               <li>
                 <a
