@@ -60,7 +60,7 @@ export default function MainSection() {
         <div className="lg:w-1/2 mt-10 lg:mt-0 flex justify-center">
           <Image
             src={Main}
-            alt="Saylani Welfare Work"
+            alt="The Humanity Door Foundation Work"
             width={500}
             height={500}
             className="rounded-full shadow-2xl object-cover"

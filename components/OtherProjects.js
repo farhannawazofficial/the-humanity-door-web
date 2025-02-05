@@ -7,13 +7,13 @@ export default function OtherProjects() {
     {
       title: "Hepatitis",
       description:
-        "Saylani Welfare has also set up a clinic for the best treatment of hepatitis patients where hepatitis patients are being treated.",
+        "The Humanity Door Foundation has also set up a clinic for the best treatment of hepatitis patients where hepatitis patients are being treated.",
       icon: <FaHeartbeat className="text-green-600 w-10 h-10" />,
     },
     {
       title: "Housing Society",
       description:
-        "Saylani Welfare is also providing its own home facility for the homeless people. So far, thousands of houses and flats have been constructed and given in easy installments.",
+        "The Humanity Door Foundation is also providing its own home facility for the homeless people. So far, thousands of houses and flats have been constructed and given in easy installments.",
       icon: <FaHome className="text-green-600 w-10 h-10" />,
     },
     {
